@@ -1,0 +1,7 @@
+id = "railscasts"
+name = "Railscasts"
+version = "0.1.0"
+schema_version = 1
+authors = ["Robert Pierce <roberttravispierce@gmail.com>"]
+description = "A port of the classic Railscasts color theme for Zed. Warm, dark, and easy on the eyes — the palette that defined a generation of Rails developers."
+repository = "https://github.com/roberttravispierce/railscasts-theme"
